@@ -1,0 +1,10 @@
+{
+  "posts": [
+    {"id":  1, "title":  "JS", "body": "aFsafsfasas fsaf asdga gadsgdsa s dfsad fdsgfdg sdsg sdg g"},
+    {"id":  2, "title":  "TS", "body": "aFsafsfasas fsaf asdga gadsgdsa s dfsad fdsgfdg sdsg sdg g"},
+    {"id":  3, "title":  "Next.JS", "body": "aFsafsfasas fsaf asdga gadsgdsa s dfsad fdsgfdg sdsg sdg g"}
+  ],
+  "about": {
+    "title": "Page about us"
+  }
+}
